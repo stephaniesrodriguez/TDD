@@ -1,0 +1,9 @@
+echo "db.sqlite3" >> .gitignore
+echo "geckodriver.log" >> .gitignore
+echo "virtualenv" >> .gitignore__pycache__
+*.pyc
+db.sqlite3
+geckodriver.log
+virtualenv
+__pycache__
+*.pyc
