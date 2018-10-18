@@ -1,6 +1,6 @@
 import unittest
 from selenium import webdriver
-class NewVisitorTest(unittest.TestCase):  
+class NewVisitorTest(unittest.TestCase):
 
     def setUp(self):  
         self.browser = webdriver.Firefox()
@@ -44,3 +44,4 @@ class NewVisitorTest(unittest.TestCase):
 
 if __name__ == '__main__':  
     unittest.main(warnings='ignore')
+# practicing
